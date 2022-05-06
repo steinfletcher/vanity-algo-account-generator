@@ -1,6 +1,6 @@
 # vanity-algo-address-generator
 
-This script attempts to quickly generate a algorand vanity address using a worker pool.
+This script attempts to quickly generate an algorand vanity address using Go routines in a worker pool.
 
 ## Usage
 
